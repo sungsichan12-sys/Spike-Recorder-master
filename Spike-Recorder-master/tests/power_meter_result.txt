@@ -1,0 +1,22 @@
+PASS AC RMS and mean-square power
+PASS DC offset removal
+PASS Constant input has zero AC power
+PASS Sine RMS and power
+PASS Doubling amplitude quadruples signal power
+PASS Signed full-range samples avoid integer overflow
+PASS Empty or single-sample readings are invalid
+PASS Rest required before reference
+PASS Two-second rest acquisition
+PASS Three-second reference acquisition
+PASS Noise floor maps to zero and reference to 100 percent
+PASS Quadrature baseline correction
+PASS Over-reference activity remains above 100 percent
+PASS Weak reference is rejected
+PASS Range-limited calibration is rejected
+PASS Repeated positions do not advance calibration
+PASS Data gap cancels an incomplete calibration
+PASS Pause cancellation does not store a partial reference
+PASS A new rest measurement clears the previous reference
+PASS Reset clears calibration
+PASS Transition window is excluded
+RESULT 21 passed, 0 failed

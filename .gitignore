@@ -1,0 +1,44 @@
+# Local GitHub/DriveX credentials and machine-specific connection settings.
+/LOTTOL-PC-connection.json
+/cloud/private/
+/drivex-site/config-LOTTOL.txt
+
+# Local cloned remote used to seed this project.
+/LOTTOL spikes_recorder/
+
+# Local ranking data, personal names, logs, and queued/sent score records.
+/server/data/
+/server/player-name.txt
+/server/outbox/
+/server/cloud-sent/
+/server/logs/
+/server/test-artifacts/
+/cloud/logs/
+/cloud/test-artifacts/*.png
+/cloud/test-artifacts/*.html
+/cloud/test-artifacts/*.log
+/cloud/test-artifacts/*.txt
+/cloud/__pycache__/
+/server/__pycache__/
+
+# Generated local build and test output.
+/Spike-Recorder-master/win/build/
+/Spike-Recorder-master/tests/core-artifacts/
+/Spike-Recorder-master/tests/dino-cinematic/
+/Spike-Recorder-master/tests/__pycache__/
+/Spike-Recorder-master/tests/*.exe
+/Spike-Recorder-master/tests/*.png
+/Spike-Recorder-master/tests/*.gif
+/Spike-Recorder-master/tests/*.tsv
+/Spike-Recorder-master/tests/*.csv
+/Spike-Recorder-master/tests/*.json
+/Spike-Recorder-master/tests/*-result.txt
+/Spike-Recorder-master/tests/*-final.txt
+/Spike-Recorder-master/tests/*-check.txt
+/Spike-Recorder-master/tests/*-result.svg
+/Spike-Recorder-master/*.log
+/Spike-Recorder-master/.vscode/
+/Spike-Recorder-master/backup-gcc-vscode/
+
+*.pyc
+*.log

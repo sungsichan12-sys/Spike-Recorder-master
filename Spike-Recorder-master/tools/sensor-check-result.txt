@@ -1,0 +1,10 @@
+Bluetooth port: 표준 Bluetooth에서 직렬 링크(COM4)
+  IDs: BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&200e BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_LOCALMFG&0002
+  Driver problem code: 0
+Bluetooth port: 표준 Bluetooth에서 직렬 링크(COM3)
+  IDs: BTHENUM\{00001101-0000-1000-8000-00805f9b34fb}_LOCALMFG&0000
+  Driver problem code: 0
+Present devices: 235
+BYB entries: 0
+Serial ports: 2 (Bluetooth: 2)
+No BYB USB/HID device or wired serial input detected. No sensor samples were read.

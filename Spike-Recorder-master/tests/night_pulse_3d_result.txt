@@ -1,0 +1,23 @@
+PASS Entire chart can be cleared perfectly
+PASS Judgement windows
+PASS Outside hit window and 12 misses fail
+PASS Single note cannot be scored twice
+PASS Offbeat input breaks combo
+PASS Frame stall does not slow song time
+PASS Microphone starts muted
+PASS Held key does not auto-hit
+PASS Sensor edge starts and scores
+PASS Retry resets notes and score
+PASS Render callbacks at small and large sizes
+PASS Rendering is independent of scoring
+PASS Notes choose the matching instrument
+PASS Gradient renderer and flat callback fallback both work
+PASS Rigid sticks contact, rebound and settle without stretching
+PASS Alternating strokes retain the other hand and cymbal vibration
+PASS Preparatory movement never strikes or awards points
+PASS Motion is time based, bounded and settles after the result
+PASS Every instrument animation stays clipped through the full stroke
+PASS Same-hand recovery flows into the next preparation
+PASS Fast rebound pivots at the wrist instead of translating the stick
+PASS Completed rounds report once and retries use a new run ID
+RESULT 22 passed, 0 failed

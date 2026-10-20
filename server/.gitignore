@@ -1,0 +1,8 @@
+/data/
+/outbox/
+/cloud-sent/
+/logs/
+/test-artifacts/
+/*.pid
+__pycache__/
+player-name.txt

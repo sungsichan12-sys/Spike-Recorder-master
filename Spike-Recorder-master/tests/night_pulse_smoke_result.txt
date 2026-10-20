@@ -1,0 +1,1 @@
+Night Pulse smoke test passed (score 5600, fail/retry OK).

@@ -1,0 +1,5 @@
+/private/
+/logs/
+/*.pid
+/test-artifacts/
+__pycache__/

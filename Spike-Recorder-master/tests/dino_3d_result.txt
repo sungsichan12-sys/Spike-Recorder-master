@@ -1,0 +1,13 @@
+PASS Unjumped obstacle causes game over
+PASS Timed short jump clears cactus
+PASS Late jump collides
+PASS Long jump lasts longer and rises higher
+PASS No double jump or jumping after death
+PASS Physics agrees at 20 and 120 fps
+PASS Reset keeps best and clears death
+PASS Invalid time cannot corrupt state
+PASS Camera projection has perspective
+PASS Near plane clipping is finite
+PASS Scene is finite and clipped at all supported sizes
+PASS Render does not change gameplay
+RESULT 12 passed, 0 failed
